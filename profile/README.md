@@ -2,6 +2,7 @@
 
 🌟 **Highlight Works**
 
+- CVPR 2021 : [Learning To Reconstruct High Speed and High Dynamic Range Videos From Events](https://github.com/jackzou233/EventHDR)
 - ICML 2020 Award Paper & JMLR 2022 : [Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems](https://github.com/Vandermode/TFPnP)
 - CVPR 2020 Oral & TPAMI 2021 : [A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising](https://github.com/Vandermode/ELD)
 
